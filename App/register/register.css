@@ -1,0 +1,54 @@
+.container{
+    padding-top: 100px;
+    background: #008080;
+    height: 450px;
+
+}
+
+.headercontainer {
+  float: left;
+  position: fixed;
+  width: 100%;
+  height: 80px;
+}
+
+
+#nav {
+    font-size: 20px;
+    text-align: right;
+    height: 100px;
+    background: black;
+
+}
+#nav a {
+
+  font-size: 20px;
+    color: white;
+    text-decoration: none;
+
+}
+
+#headertext {float: left;
+      text-align: left;
+      color:white;
+      font-size: 40px;}
+.register{
+      padding-top: 10px;
+      width: 50%;
+      margin: 0 auto;
+}
+
+.register h1{color: white;}
+
+#Username{color: white;}
+#E-mail{color: white;}
+#Password{color: white;}
+#Re-enterpassword{color: white;}
+
+.back-to-top-button{
+  color:black;
+}
+
+.footer{
+  padding-top: 50px;
+  text-align: center;}

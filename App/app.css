@@ -55,6 +55,7 @@
 
 .imagewrapper:hover{
   background: #4BB1DC;
+  transform: scale(1.1);
 }
 
 .imagewrapper img{
@@ -87,9 +88,14 @@
 .imagewrapperone img{
   width: 100%;
   height: auto;
-  margin-top: 150px;
-  margin-right: 50px;
+  margin-top: 100px;
+  margin-right: 100px;
+  margin-left: -300px;
   padding: 15px;
+}
+
+.imagewrapperone:hover{
+  transform: scale(1.1);
 }
 
 .grup:after {
@@ -100,6 +106,7 @@ content: " ";}
 
 .containertwo {
   width: 1200px;
-  margin-left: 500px;
+  margin-left: 900px;
+  margin-right: 500px;
   padding: 20px;
 }
