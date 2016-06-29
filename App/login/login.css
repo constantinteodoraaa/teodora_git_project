@@ -14,7 +14,7 @@
 
 
 #nav {
-
+    font-size: 20px;
     text-align: right;
     height: 100px;
     background: black;
@@ -82,4 +82,5 @@ border: solid;
   color:black;
 }
 
-.footer{text-align: center;}
+.footer{padding-top: 50px;
+  text-align: center;}

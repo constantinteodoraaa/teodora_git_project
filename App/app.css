@@ -107,4 +107,5 @@
     width: 50px;
 }
 
-#myNavBar{font-size: 20px;}
+#myNavBar{font-size: 30px;
+            text-align: right;}

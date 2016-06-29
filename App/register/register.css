@@ -1,7 +1,7 @@
 .container{
     padding-top: 100px;
     background: #008080;
-    height: 450px;
+    height: 500px;
 
 }
 
@@ -38,12 +38,17 @@
       margin: 0 auto;
 }
 
-.register h1{color: white;}
+.register h1{font-size: px;
+  color: white;}
 
-#Username{color: white;}
-#E-mail{color: white;}
-#Password{color: white;}
-#Re-enterpassword{color: white;}
+#Username{font-size: 25px;
+  color: white;}
+#E-mail{font-size: 25px;
+  color: white;}
+#Password{font-size: 25px;
+  color: white;}
+#Re-enterpassword{font-size: 25px;
+  color: white;}
 
 .back-to-top-button{
   color:black;
