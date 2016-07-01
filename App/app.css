@@ -23,12 +23,7 @@
     width: 30px;
     height: 15px;
 }
-.footer-container {
-    text-align: center;
-}
-.back-to-top-button {
-    color: black;
-}
+
 #section-one {
     background-color: #4BB1DC;
     height: 200px;
@@ -107,5 +102,10 @@
     width: 50px;
 }
 
-#myNavBar{font-size: 30px;
-            text-align: right;}
+.back-to-top-button{
+  color:black;
+}
+
+.footer{
+  padding-top: 50px;
+  text-align: center;}

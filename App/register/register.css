@@ -1,59 +1,64 @@
-.container{
-    padding-top: 100px;
-    background: #008080;
-    height: 500px;
-
-}
-
-.headercontainer {
-  float: left;
-  position: fixed;
+.fundal2{
+  background: linear-gradient(#2F4F4F, #9370DB);
+  height:60px;
+  margin: 0;
   width: 100%;
-  height: 80px;
-}
+  position: fixed;
 
 
-#nav {
-    font-size: 20px;
-    text-align: right;
-    height: 100px;
-    background: black;
-
-}
-#nav a {
-
-  font-size: 20px;
-    color: white;
-    text-decoration: none;
 
 }
 
-#headertext {float: left;
-      text-align: left;
-      color:white;
-      font-size: 40px;}
-.register{
-      padding-top: 10px;
-      width: 50%;
-      margin: 0 auto;
+.fundal3{
+background: linear-gradient(#2F4F4F, #9370DB);
+color:white;
+margin:0;
+
+}
+body{ background-color: white;
+margin:0;
+
+}
+#legend{
+margin:0;
+font-size:30px;
+font-family: monospace;
+}
+.form input[type="text"],.form input[type="password"],.form input[type="email"]{
+width: 400px;
+height:30px;
+background-color: inherit;
+border: 2px solid white;
+margin-top: 15px;
+margin-bottom: 15px;
+
+
 }
 
-.register h1{font-size: px;
-  color: white;}
+.form{
+      width:50%;
+      margin:auto;
+      padding-top: 140px;
+}
+.form input[type="submit"]{
+  width: 134px;
+  height:40px;
+  color:white;
 
-#Username{font-size: 25px;
-  color: white;}
-#E-mail{font-size: 25px;
-  color: white;}
-#Password{font-size: 25px;
-  color: white;}
-#Re-enterpassword{font-size: 25px;
-  color: white;}
+  margin-top: 0px;
+  background-color: inherit;
+  border: 2px solid white;
+}
+
+.form input[type="submit"]:hover {
+  background-color: grey;
+
+}
 
 .back-to-top-button{
   color:black;
 }
 
-.footer{
+.footer-container{
   padding-top: 50px;
   text-align: center;}

@@ -1,0 +1,40 @@
+.back-to-top-button{
+  color:black;
+}
+
+.footer-container{
+  padding-top: 50px;
+  text-align: center;}
+
+
+.title{ padding-top: 100px;
+        padding-left: 100px;}
+
+.btn-group .red{background-color: red;}
+
+.button .red{ background-color: red;
+  border-color: red;
+  float: right;}
+
+.dropdown button[type="button"]{width: 400px;
+                                background-color: white;
+                              }
+.col-sm-3 {margin-left: -15px;}
+
+.city input[type="text"] {width:150px;
+                          border-radius: 10px;}
+
+.zipcode input[type="text"] {margin-left: -100px;
+                        width:150px;
+                          border-radius: 10px;}
+
+.zipcode p{margin-left: -100px;}
+
+.two button[type="button"]{background-color: red;
+                              width: 100px;
+                            float: left;
+                            margin-top:10px;
+                          }
+
+.price {color: red;
+        font-size: 25px;}
